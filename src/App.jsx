@@ -1,10 +1,10 @@
-import React from "react";
-import FormComponent from "./components/FormComponent";
+import ListComponent from "./components/ListComponent";
 
 function App() {
   return (
     <div className="App">
-      <FormComponent />
+      {/* <FormComponent /> */}
+      <ListComponent />
     </div>
   );
 }
