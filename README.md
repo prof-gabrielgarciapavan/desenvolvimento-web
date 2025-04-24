@@ -56,9 +56,6 @@ npm run dev
 # Gera a build de produção
 npm run build
 
-# Executa o linter
-npm run lint
-
 # Executa os testes
 npm test
 
